@@ -1,0 +1,30 @@
+img {
+  text-align: center;
+
+}
+h1 {
+  font-family: fantasy;
+  font-size: 50px;
+
+}
+
+h2 {
+  font-size: 35px;
+  font-family: fantasy;
+
+}
+
+h3 {
+  font-size: 25px;
+  line-height: 15px;
+  font-family: fantasy;
+
+}
+
+em {
+  color: green;
+}
+
+p{
+  font-size: 20px;
+}
